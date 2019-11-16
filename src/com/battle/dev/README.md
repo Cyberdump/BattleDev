@@ -9,8 +9,15 @@ Ex: `com.battle.dev.mars2019.Exercice1`
 ## Lancement des exercices
 
 Lancer la class LaceurExercice avec les paramètres suivants :
- 1. Le fichier d'entrée (ex: `C:\2019_mars_exercice_1.txt`)
- 2. La classe de l'exercice (ex: `com.battle.dev.mars2019.Exercice1`)
+ 1. La classe de l'exercice (ex: `com.battle.dev.mars2019.Exercice1`)
+ 2. Le répertoire contenant les entrées/sorties (ex: `C:\\mon_dossier`)
+ 
+>Info: Les fichiers d'entrées/sorties peuvent être téléchargé sur le site :
+>https://www.isograd.com/FR/solutionconcours.php 
+>Lorsque l'on sélectionne un exercice, dans le bandeau de gauche il y a un 
+>lien nommé `téléchargements`
+>Cela ouvre un panneau avec un nouveau lien `exemples d'entrèes et de sorties`
+>Déconpressé le dossier dans le dossier `in` 
  
  Commande de lancement : 
  
