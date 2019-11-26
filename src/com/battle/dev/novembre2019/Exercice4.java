@@ -11,6 +11,7 @@ public class Exercice4 {
         while(sc.hasNextLine()) {
             line = sc.nextLine();
             /* Lisez les données et effectuez votre traitement */
+            System.err.println(line);
         }
         /* Vous pouvez aussi effectuer votre traitement une fois que vous avez lu toutes les données.*/
     }
